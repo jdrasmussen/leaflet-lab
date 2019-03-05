@@ -1,0 +1,79 @@
+/* stylesheet by Joe Rasmussen, 2019*/
+#youngadultsMap {
+  height: 540px;
+  padding-bottom: 20px;
+}
+
+#pagecontent {
+  padding-bottom: 20px;
+}
+
+#control {
+  text-align: center;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: top;
+  line-height: 42px;
+}
+
+#slider {
+  width: 75%;
+  margin: auto;
+  padding-top: 5px;
+}
+
+#yearlabel {
+
+}
+
+#infopane {
+  text-align: center;
+  padding-top: 10px;
+  /*color: #64778D;*/
+}
+
+#next {
+  float: right;
+}
+
+#previous {
+  float: left;
+}
+
+
+button {
+  height: 30px;
+  width: 30px;
+  vertical-align: middle;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #729799;
+}
+
+form {
+  padding: 10px;
+}
+
+
+
+.jumbotron h1 {
+  color: #BFD1D3;
+}
+
+.jumbotron h2 {
+  color: #BFD1D3;
+}
+
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+
+.jumbotron {
+  background-color: #64778D;
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<title></title>
+
+		<!--put your external stylesheet links here-->
+
+		<link rel="stylesheet" href="lib/leaflet/leaflet.css">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="css/style.css">
+		<!--[if IE<9]>
+			<link rel="stylesheet" href="css/style.ie.css">
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="jumbotron jumbotron-fluid text-center">
+      <div class="container">
+        <h1>The 31 Largest Metro areas in the U.S.</h1>
+        <h2>By Total Population, 2005-2017</h2>
+      </div>
+    </div>
+
+		<div class="container" id="pagecontent">
+			<div class="row">
+				<div class="col-xs-12 col-md-8" id="youngadultsMap"></div>
+				<div class="col-xs-12 col-md-4" id="control"></div>
+				<div class="col-xs-12 col-md-4 float-right" id="yearlabel"><p><b>Data displayed for:</b> 2005<p></div>
+				<div class="col-xs-12 col-md-4 float-right" id="filtercontrol">
+					<form>
+						<input type="radio" id="allcities" name="select" value="all" checked> All Cities
+						<input type="radio" id="tophalf" name="select" value="tophalf"> Top 15 Population
+						<input type="radio" id="bottomhalf" name="select" value="bottomhalf"> Number 16-31
+				</div>
+				<div class="col-xs-12 col-md-4 float-right" id="infopane"></div>
+			</div>
+		</div>
+		<!--put your initial page content here-->
+
+		<!--you can also use this space for internal scripts or stylesheets;
+		place these within <script> or <style> tags-->
+
+		<!--put your external script links here-->
+		<script type="text/javascript" src="lib/jquery-3.3.1.js"></script>
+		<script type="text/javascript" src="lib/leaflet/leaflet-src.js"></script>
+		<script type="text/javascript" src="lib/bootstrap.js"></script>
+	  <script type="text/javascript" src="lib/bootstrap.min.js"></script>
+	  <script type="text/javascript" src="js/geojson.js"></script>
+
+	</body>
+</html>

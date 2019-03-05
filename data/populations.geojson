@@ -1,0 +1,873 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New York City",
+        "MetroName": "New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",
+        "2005totpop": 18351099,
+        "2006totpop": 18818536,
+        "2007totpop": 18815988,
+        "2008totpop": 19006798,
+        "2009totpop": 19069796,
+        "2010totpop": 18919983,
+        "2011totpop": 19015900,
+        "2012totpop": 19160024,
+        "2013totpop": 19949502,
+        "2014totpop": 20092883,
+        "2015totpop": 20182305,
+        "2016totpop": 20153634,
+        "2017totpop": 20320876,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005974,
+          40.712776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Los Angeles",
+        "MetroName": "Los Angeles-Long Beach-Santa Ana, CA Metro Area",
+        "2005totpop": 12703423,
+        "2006totpop": 12950129,
+        "2007totpop": 12875587,
+        "2008totpop": 12872808,
+        "2009totpop": 12874797,
+        "2010totpop": 12849383,
+        "2011totpop": 12944801,
+        "2012totpop": 13052921,
+        "2013totpop": 13131431,
+        "2014totpop": 13262220,
+        "2015totpop": 13340068,
+        "2016totpop": 13310447,
+        "2017totpop": 13353907,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chicago",
+        "MetroName": "Chicago-Naperville-Joliet, IL-IN-WI Metro Area",
+        "2005totpop": 9272117,
+        "2006totpop": 9506859,
+        "2007totpop": 9522879,
+        "2008totpop": 9568532,
+        "2009totpop": 9580609,
+        "2010totpop": 9474211,
+        "2011totpop": 9504024,
+        "2012totpop": 9522446,
+        "2013totpop": 9537040,
+        "2014totpop": 9553810,
+        "2015totpop": 9550108,
+        "2016totpop": 9512968,
+        "2017totpop": 9533895,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629799,
+          41.878113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dallas",
+        "MetroName": "Dallas-Fort Worth-Arlington, TX Metro Area",
+        "2005totpop": 5727391,
+        "2006totpop": 6006094,
+        "2007totpop": 6144489,
+        "2008totpop": 6303407,
+        "2009totpop": 6447228,
+        "2010totpop": 6402922,
+        "2011totpop": 6526566,
+        "2012totpop": 6647496,
+        "2013totpop": 6812373,
+        "2014totpop": 6954003,
+        "2015totpop": 7102165,
+        "2016totpop": 7232599,
+        "2017totpop": 7400479,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.796989,
+          32.776665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Philadelphia",
+        "MetroName": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",
+        "2005totpop": 5644383,
+        "2006totpop": 5826742,
+        "2007totpop": 5827962,
+        "2008totpop": 5838471,
+        "2009totpop": 5968252,
+        "2010totpop": 5971483,
+        "2011totpop": 5992414,
+        "2012totpop": 6018800,
+        "2013totpop": 6034678,
+        "2014totpop": 6051170,
+        "2015totpop": 6069875,
+        "2016totpop": 6070500,
+        "2017totpop": 6096120,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165222,
+          39.952583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Miami",
+        "MetroName": "Miami-Fort Lauderdale-Miami Beach, FL Metro Area",
+        "2005totpop": 5334685,
+        "2006totpop": 5463857,
+        "2007totpop": 5413212,
+        "2008totpop": 5414772,
+        "2009totpop": 5547051,
+        "2010totpop": 5582351,
+        "2011totpop": 5670125,
+        "2012totpop": 5762717,
+        "2013totpop": 5828191,
+        "2014totpop": 5929819,
+        "2015totpop": 6012331,
+        "2016totpop": 6066387,
+        "2017totpop": 6158824,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.191788,
+          25.761681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Houston",
+        "MetroName": "Houston-Sugar Land-Baytown, TX Metro Area",
+        "2005totpop": 5193448,
+        "2006totpop": 5542048,
+        "2007totpop": 5629127,
+        "2008totpop": 5722952,
+        "2009totpop": 5865086,
+        "2010totpop": 5977092,
+        "2011totpop": 6086895,
+        "2012totpop": 6204161,
+        "2013totpop": 6313158,
+        "2014totpop": 6490180,
+        "2015totpop": 6656946,
+        "2016totpop": 6772470,
+        "2017totpop": 6892427,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.369804,
+          29.760427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Washington, D.C.",
+        "MetroName": "Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",
+        "2005totpop": 5119490,
+        "2006totpop": 5288670,
+        "2007totpop": 5306125,
+        "2008totpop": 5356474,
+        "2009totpop": 5476241,
+        "2010totpop": 5610082,
+        "2011totpop": 5703948,
+        "2012totpop": 5804333,
+        "2013totpop": 5950214,
+        "2014totpop": 6032744,
+        "2015totpop": 6098283,
+        "2016totpop": 6133552,
+        "2017totpop": 6216710,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036873,
+          38.907192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlanta",
+        "MetroName": "Atlanta-Sandy Springs-Marietta, GA Metro Area",
+        "2005totpop": 4828838,
+        "2006totpop": 5134871,
+        "2007totpop": 5271550,
+        "2008totpop": 5368070,
+        "2009totpop": 5476664,
+        "2010totpop": 5288302,
+        "2011totpop": 5365726,
+        "2012totpop": 5442113,
+        "2013totpop": 5524693,
+        "2014totpop": 5611829,
+        "2015totpop": 5709731,
+        "2016totpop": 5790210,
+        "2017totpop": 5882450,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.387985,
+          33.748997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Detroit",
+        "MetroName": "Detroit-Warren-Livonia, MI Metro Area",
+        "2005totpop": 4428941,
+        "2006totpop": 4468966,
+        "2007totpop": 4467592,
+        "2008totpop": 4425110,
+        "2009totpop": 4403437,
+        "2010totpop": 4291843,
+        "2011totpop": 4285832,
+        "2012totpop": 4292060,
+        "2013totpop": 4294983,
+        "2014totpop": 4296611,
+        "2015totpop": 4302043,
+        "2016totpop": 4297617,
+        "2017totpop": 4313002,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.045753,
+          42.331429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boston",
+        "MetroName": "Boston-Cambridge-Quincy, MA-NH Metro Area",
+        "2005totpop": 4270631,
+        "2006totpop": 4455217,
+        "2007totpop": 4482857,
+        "2008totpop": 4522858,
+        "2009totpop": 4588680,
+        "2010totpop": 4560689,
+        "2011totpop": 4591112,
+        "2012totpop": 4640802,
+        "2013totpop": 4684299,
+        "2014totpop": 4732161,
+        "2015totpop": 4774321,
+        "2016totpop": 4794447,
+        "2017totpop": 4836531,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.058884,
+          42.360081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "San Francisco",
+        "MetroName": "San Francisco-Oakland-Fremont, CA Metro Area",
+        "2005totpop": 4071751,
+        "2006totpop": 4180027,
+        "2007totpop": 4203898,
+        "2008totpop": 4274531,
+        "2009totpop": 4317853,
+        "2010totpop": 4345320,
+        "2011totpop": 4391037,
+        "2012totpop": 4455560,
+        "2013totpop": 4516276,
+        "2014totpop": 4594060,
+        "2015totpop": 4656132,
+        "2016totpop": 4679166,
+        "2017totpop": 4727357,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419418,
+          37.774929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Riverside",
+        "MetroName": "Riverside-San Bernardino-Ontario, CA Metro Area",
+        "2005totpop": 3827946,
+        "2006totpop": 4026135,
+        "2007totpop": 4081371,
+        "2008totpop": 4115871,
+        "2009totpop": 4143113,
+        "2010totpop": 4245773,
+        "2011totpop": 4304997,
+        "2012totpop": 4350096,
+        "2013totpop": 4380878,
+        "2014totpop": 4441890,
+        "2015totpop": 4489159,
+        "2016totpop": 4527837,
+        "2017totpop": 4580670,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.375496,
+          33.980602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Phoenix",
+        "MetroName": "Phoenix-Mesa-Scottsdale, AZ Metro Area",
+        "2005totpop": 3805123,
+        "2006totpop": 4039182,
+        "2007totpop": 4179427,
+        "2008totpop": 4281899,
+        "2009totpop": 4364094,
+        "2010totpop": 4211213,
+        "2011totpop": 4263236,
+        "2012totpop": 4329534,
+        "2013totpop": 4398762,
+        "2014totpop": 4489109,
+        "2015totpop": 4574531,
+        "2016totpop": 4661537,
+        "2017totpop": 4737270,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074036,
+          33.448376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Seattle",
+        "MetroName": "Seattle-Tacoma-Bellevue, WA Metro Area",
+        "2005totpop": 3133715,
+        "2006totpop": 3263497,
+        "2007totpop": 3309347,
+        "2008totpop": 3344813,
+        "2009totpop": 3407848,
+        "2010totpop": 3449059,
+        "2011totpop": 3500026,
+        "2012totpop": 3552157,
+        "2013totpop": 3610105,
+        "2014totpop": 3671478,
+        "2015totpop": 3733580,
+        "2016totpop": 3798902,
+        "2017totpop": 3867046,
+        "tophalf": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332069,
+          47.606209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Minneapolis",
+        "MetroName": "Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",
+        "2005totpop": 3076239,
+        "2006totpop": 3175041,
+        "2007totpop": 3208212,
+        "2008totpop": 3229878,
+        "2009totpop": 3269814,
+        "2010totpop": 3286195,
+        "2011totpop": 3318486,
+        "2012totpop": 3353724,
+        "2013totpop": 3459146,
+        "2014totpop": 3495176,
+        "2015totpop": 3524583,
+        "2016totpop": 3551036,
+        "2017totpop": 3600618,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.200936,
+          44.946706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "San Diego",
+        "MetroName": "San Diego-Carlsbad-San Marcos, CA Metro Area",
+        "2005totpop": 2824259,
+        "2006totpop": 2941454,
+        "2007totpop": 2974859,
+        "2008totpop": 3001072,
+        "2009totpop": 3053793,
+        "2010totpop": 3105989,
+        "2011totpop": 3140069,
+        "2012totpop": 3177063,
+        "2013totpop": 3211252,
+        "2014totpop": 3263431,
+        "2015totpop": 3299521,
+        "2016totpop": 3317749,
+        "2017totpop": 3337685,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.161087,
+          32.715736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St. Louis",
+        "MetroName": "St. Louis, MO-IL Metro Area",
+        "2005totpop": 2725336,
+        "2006totpop": 2793988,
+        "2007totpop": 2802282,
+        "2008totpop": 2813373,
+        "2009totpop": 2825769,
+        "2010totpop": 2815168,
+        "2011totpop": 2813680,
+        "2012totpop": 2819381,
+        "2013totpop": 2799609,
+        "2014totpop": 2805856,
+        "2015totpop": 2812313,
+        "2016totpop": 2807954,
+        "2017totpop": 2807216,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.199402,
+          38.627003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tampa",
+        "MetroName": "Tampa-St. Petersburg-Clearwater, FL Metro Area",
+        "2005totpop": 2596556,
+        "2006totpop": 2697731,
+        "2007totpop": 2723949,
+        "2008totpop": 2733761,
+        "2009totpop": 2747272,
+        "2010totpop": 2789116,
+        "2011totpop": 2824724,
+        "2012totpop": 2842878,
+        "2013totpop": 2870569,
+        "2014totpop": 2915582,
+        "2015totpop": 2975225,
+        "2016totpop": 3032171,
+        "2017totpop": 3091399,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.457176,
+          27.950575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Baltimore",
+        "MetroName": "Baltimore-Towson, MD Metro Area",
+        "2005totpop": 2583923,
+        "2006totpop": 2658405,
+        "2007totpop": 2668056,
+        "2008totpop": 2667117,
+        "2009totpop": 2690886,
+        "2010totpop": 2714183,
+        "2011totpop": 2729110,
+        "2012totpop": 2753149,
+        "2013totpop": 2770738,
+        "2014totpop": 2785874,
+        "2015totpop": 2797407,
+        "2016totpop": 2798886,
+        "2017totpop": 2808175,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61219,
+          39.290386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Denver",
+        "MetroName": "Denver-Aurora, CO Metro Area",
+        "2005totpop": 2327901,
+        "2006totpop": 2408622,
+        "2007totpop": 2466591,
+        "2008totpop": 2502881,
+        "2009totpop": 2554474,
+        "2010totpop": 2560529,
+        "2011totpop": 2600594,
+        "2012totpop": 2645209,
+        "2013totpop": 2697476,
+        "2014totpop": 2754258,
+        "2015totpop": 2814330,
+        "2016totpop": 2853077,
+        "2017totpop": 2888227,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.99025,
+          39.739235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pittsburgh",
+        "MetroName": "Pittsburgh, PA Metro Area",
+        "2005totpop": 2314937,
+        "2006totpop": 2370776,
+        "2007totpop": 2355712,
+        "2008totpop": 2351192,
+        "2009totpop": 2354957,
+        "2010totpop": 2356381,
+        "2011totpop": 2359746,
+        "2012totpop": 2360733,
+        "2013totpop": 2360867,
+        "2014totpop": 2355968,
+        "2015totpop": 2353045,
+        "2016totpop": 2342299,
+        "2017totpop": 2333367,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.995888,
+          40.440624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Portland",
+        "MetroName": "Portland-Vancouver-Beaverton, OR-WA Metro Area",
+        "2005totpop": 2063277,
+        "2006totpop": 2137599,
+        "2007totpop": 2174631,
+        "2008totpop": 2209114,
+        "2009totpop": 2241913,
+        "2010totpop": 2232496,
+        "2011totpop": 2262702,
+        "2012totpop": 2289651,
+        "2013totpop": 2315089,
+        "2014totpop": 2347127,
+        "2015totpop": 2390244,
+        "2016totpop": 2425325,
+        "2017totpop": 2451560,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.658722,
+          45.51223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cincinnati",
+        "MetroName": "Cincinnati-Middletown, OH-KY-IN Metro Area",
+        "2005totpop": 2026216,
+        "2006totpop": 2105010,
+        "2007totpop": 2134864,
+        "2008totpop": 2155435,
+        "2009totpop": 2170828,
+        "2010totpop": 2133203,
+        "2011totpop": 2137735,
+        "2012totpop": 2146560,
+        "2013totpop": 2134109,
+        "2014totpop": 2149971,
+        "2015totpop": 2159329,
+        "2016totpop": 2161441,
+        "2017totpop": 2180746,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.581596,
+          40.658039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sacramento",
+        "MetroName": "Sacramento--Arden-Arcade--Roseville, CA Metro Area",
+        "2005totpop": 2004476,
+        "2006totpop": 2067117,
+        "2007totpop": 2091120,
+        "2008totpop": 2109832,
+        "2009totpop": 2127355,
+        "2010totpop": 2154391,
+        "2011totpop": 2176235,
+        "2012totpop": 2196482,
+        "2013totpop": 2215770,
+        "2014totpop": 2244397,
+        "2015totpop": 2274194,
+        "2016totpop": 2296418,
+        "2017totpop": 2324884,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4944,
+          38.581573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kansas City",
+        "MetroName": "Kansas City, MO-KS Metro Area",
+        "2005totpop": 1909666,
+        "2006totpop": 1966790,
+        "2007totpop": 1980977,
+        "2008totpop": 2001074,
+        "2009totpop": 2066732,
+        "2010totpop": 2035747,
+        "2011totpop": 2049773,
+        "2012totpop": 2064296,
+        "2013totpop": 2052048,
+        "2014totpop": 2070221,
+        "2015totpop": 2088269,
+        "2016totpop": 2104115,
+        "2017totpop": 2126945,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.578568,
+          39.099728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Orlando",
+        "MetroName": "Orlando-Kissimmee, FL Metro Area",
+        "2005totpop": 1903273,
+        "2006totpop": 1984855,
+        "2007totpop": 2032496,
+        "2008totpop": 2054574,
+        "2009totpop": 2082421,
+        "2010totpop": 2140795,
+        "2011totpop": 2171360,
+        "2012totpop": 2223674,
+        "2013totpop": 2267846,
+        "2014totpop": 2321418,
+        "2015totpop": 2387138,
+        "2016totpop": 2441257,
+        "2017totpop": 2509831,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.379234,
+          28.538336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "San Antonio",
+        "MetroName": "San Antonio, TX Metro Area",
+        "2005totpop": 1844018,
+        "2006totpop": 1948437,
+        "2007totpop": 1997969,
+        "2008totpop": 2032024,
+        "2009totpop": 2073092,
+        "2010totpop": 2157897,
+        "2011totpop": 2196132,
+        "2012totpop": 2234003,
+        "2013totpop": 2277516,
+        "2014totpop": 2326665,
+        "2015totpop": 2381828,
+        "2016totpop": 2429609,
+        "2017totpop": 2473974,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.493629,
+          29.424122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Las Vegas",
+        "MetroName": "Las Vegas-Paradise, NV Metro Area",
+        "2005totpop": 1691213,
+        "2006totpop": 1777539,
+        "2007totpop": 1836333,
+        "2008totpop": 1865746,
+        "2009totpop": 1902834,
+        "2010totpop": 1954260,
+        "2011totpop": 1969975,
+        "2012totpop": 2000759,
+        "2013totpop": 2027868,
+        "2014totpop": 2069681,
+        "2015totpop": 2114801,
+        "2016totpop": 2155664,
+        "2017totpop": 2204079,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.139832,
+          36.169941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Charlotte",
+        "MetroName": "Charlotte-Gastonia-Concord, NC-SC Metro Area",
+        "2005totpop": 1491330,
+        "2006totpop": 1582627,
+        "2007totpop": 1650667,
+        "2008totpop": 1701600,
+        "2009totpop": 1745524,
+        "2010totpop": 1764313,
+        "2011totpop": 1795472,
+        "2012totpop": 1831084,
+        "2013totpop": 2335358,
+        "2014totpop": 2380314,
+        "2015totpop": 2426363,
+        "2016totpop": 2474314,
+        "2017totpop": 2525305,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.843124,
+          35.227085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Austin",
+        "MetroName": "Austin-Round Rock, TX Metro Area",
+        "2005totpop": 1406364,
+        "2006totpop": 1506425,
+        "2007totpop": 1593400,
+        "2008totpop": 1650887,
+        "2009totpop": 1705075,
+        "2010totpop": 1728307,
+        "2011totpop": 1783519,
+        "2012totpop": 1834303,
+        "2013totpop": 1883051,
+        "2014totpop": 1943299,
+        "2015totpop": 2000860,
+        "2016totpop": 2056405,
+        "2017totpop": 2115827,
+        "tophalf": "FALSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.743057,
+          30.267153
+        ]
+      }
+    }
+  ]
+}
